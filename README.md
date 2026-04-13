@@ -10,7 +10,7 @@ With over **8+ years of experience** across all stages of web development, I spe
 
 ## 💼 About Me
 
-- 🔭 Currently leading development as **Lead Software Engineer & Product Lead** at **Midlands Online/Inforox**, where I oversee innovative IoT-based SaaS solutions.
+- 🔭 Currently leading development as **Lead Software Engineer & Product Lead**  where I oversee innovative IoT-based SaaS solutions.
 - 🌱 Passionate about **AI/ML**, exploring libraries like TensorFlow, PyTorch, and LangChain.
 - 👯 Open to collaborating on projects involving **web development**, **AI integrations**, and **cloud-based solutions**.
 - 💬 Ask me about **Laravel**, **ASP.NET Core**, **Vue.js**, **Angular**, **Django**, and **Docker**.
