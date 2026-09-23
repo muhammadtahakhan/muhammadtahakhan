@@ -1,6 +1,5 @@
 # 👋 Hello, I'm Muhammad Taha Khan
 
-![Profile Banner](https://your-banner-link.com) <!-- Optional: Replace with your actual banner -->
 
 🚀 **Lead Software Engineer | Full-Stack Developer | AI Enthusiast**
 
