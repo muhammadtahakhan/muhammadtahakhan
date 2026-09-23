@@ -3,7 +3,7 @@
 
 🚀 **Lead Software Engineer | Full-Stack Developer | AI Enthusiast**
 
-With over **8+ years of experience** across all stages of web development, I specialize in crafting robust, scalable, and innovative solutions. From system design to debugging, I excel in both independent and collaborative team settings.
+With over **9+ years of experience** across all stages of web development, I specialize in crafting robust, scalable, and innovative solutions. From system design to debugging, I excel in both independent and collaborative team settings.
 
 ---
 
@@ -53,7 +53,7 @@ With over **8+ years of experience** across all stages of web development, I spe
 ## 🏆 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadtahakhan&show_icons=true&theme=radical" alt="GitHub Stats" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadtahakhan&theme=radical" alt="GitHub Streak" />
 </div>
 
