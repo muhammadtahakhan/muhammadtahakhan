@@ -33,7 +33,20 @@ document.querySelectorAll(".reveal").forEach((el, index) => {
 document.getElementById("year").textContent = new Date().getFullYear();
 
 const header = document.querySelector(".site-header");
-window.addEventListener("scroll", () => {
-  header.style.background =
-    window.scrollY > 20 ? "rgba(8,11,16,.94)" : "rgba(8,11,16,.78)";
-}, { passive: true });
+const applyHeaderState = () => {
+  if (!header) return;
+
+  const isScrolled = window.scrollY > 20;
+  header.style.background = isScrolled
+    ? "rgba(255,255,255,.88)"
+    : "rgba(255,255,255,.72)";
+  header.style.borderBottom = isScrolled
+    ? "1px solid rgba(15, 23, 42, .08)"
+    : "1px solid rgba(15, 23, 42, .1)";
+  header.style.boxShadow = isScrolled
+    ? "0 10px 30px rgba(15, 23, 42, .06)"
+    : "none";
+};
+
+applyHeaderState();
+window.addEventListener("scroll", applyHeaderState, { passive: true });
